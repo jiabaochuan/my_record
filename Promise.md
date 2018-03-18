@@ -33,3 +33,6 @@ Promise学习记录
   结果:分别为 "" , "promise+undefined", "promise+OK";
   ```
 
+
+结尾:
+1.http://fex.baidu.com/blog/2015/07/we-have-a-problem-with-promises/
