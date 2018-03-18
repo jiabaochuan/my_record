@@ -1,5 +1,6 @@
 封装一个原生ajax（不考虑过低版本ie浏览器）
 ```
+# obj对象 包含基本的参数
 function ajax(obj){
     var info = {}，
         xhq = new XMLHttpRequest();
@@ -38,6 +39,7 @@ function ajax(obj){
 ```
 
 ```
+# 对数据进行简单的处理
 function initData(data){
     if(typeof data !== "object"){
         return "";
