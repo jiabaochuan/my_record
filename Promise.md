@@ -36,3 +36,4 @@ Promise学习记录
 
 结尾:
 1.http://fex.baidu.com/blog/2015/07/we-have-a-problem-with-promises/
+2.https://www.promisejs.org/implementing/
